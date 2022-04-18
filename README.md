@@ -1,1 +1,3 @@
-# hello-world
+# hello-world 
+
+Hey, I'm julian I like computers
